@@ -81,4 +81,4 @@ The background service (`ToggleConfigurationService`) runs every 5 minutes to up
 - Add authentication & authorization
 - Implement caching
 - Use appsettings for initial profile setup
-
+- Implement Infrastructure project to persist data
