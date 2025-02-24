@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfileAndPermissions.UI", "ProfileAndPermissions.UI\ProfileAndPermissions.UI.csproj", "{3ECC21FF-FD48-46EB-A94D-4C1FB283C095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECC21FF-FD48-46EB-A94D-4C1FB283C095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECC21FF-FD48-46EB-A94D-4C1FB283C095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECC21FF-FD48-46EB-A94D-4C1FB283C095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECC21FF-FD48-46EB-A94D-4C1FB283C095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EBD1389-BFDF-46F8-8D1A-2FBC41D0E656}
+	EndGlobalSection
+EndGlobal
