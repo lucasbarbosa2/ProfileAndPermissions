@@ -74,10 +74,11 @@ Response
 }
 ```
 ## Background Service
-The background service (`ToggleConfigurationService`) runs every 5 minutes to update profile permissions.
+The background service (`ToggleConfigurationService`) runs every 5 minutes to update profile ('Admin','CanEdit') on and off every 5 minutes.
 
 ## Future Improvements
 - Improve concurrency handling
 - Add authentication & authorization
 - Implement caching
+- Use appsettings for initial profile setup
 
